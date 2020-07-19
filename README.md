@@ -2,7 +2,7 @@
 
 👨🏻‍💻 I'm an iOS developer from China
 
-[![Hanson's github stats](https://github-readme-stats.vercel.app/api?username=zyphs21&show_icons=true)](https://github.com/zyphs21)
+<!-- [![Hanson's github stats](https://github-readme-stats.vercel.app/api?username=zyphs21&show_icons=true)](https://github.com/zyphs21) -->
 
 ### My Little Products
 
