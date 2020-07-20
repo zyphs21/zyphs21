@@ -24,15 +24,9 @@ Apps | Info
 - 🐦  On Twitter at [@yuanpingzhang](https://twitter.com/yuanpingzhang)
 - 👁  On Weibo at [@汉森HS](https://weibo.com/1775951885/)
 
-<details>
-<summary>欢迎关注我的公众号</summary>
-
-|HansonTalk | 
-|:--:|
-<img src="https://cdn.jsdelivr.net/gh/zyphs21/cdn-assets/qrcode/HansonTalk.jpg" alt="HansonTalk" align=center /> |
-
-</details>
-
+|公众号: HansonTalk | 微信: hansenhs21
+|:--:|:--:
+<img src="https://cdn.jsdelivr.net/gh/zyphs21/cdn-assets/qrcode/HansonTalk.jpg" alt="HansonTalk" align=center /> | <img src="https://cdn.jsdelivr.net/gh/zyphs21/cdn-assets/qrcode/hansenhs21.jpg" width = "250" height = "320" alt="Hanson" align=center />
 
 </details>
 
