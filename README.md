@@ -20,7 +20,7 @@ Apps | Info
 <details>
 <summary>🙋🏻‍♂️        Where to find me</summary>
 
-- 🌎  On my blog at [myhanson.com](myhanson.com)
+- 🌎  On my blog at [myhanson.com](http://myhanson.com)
 - 🐦  On Twitter at [@yuanpingzhang](https://twitter.com/yuanpingzhang)
 - 👁  On Weibo at [@汉森HS](https://weibo.com/1775951885/)
 
