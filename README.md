@@ -26,7 +26,7 @@ Apps | Info
 
 |公众号: HansonTalk | 微信: hansenhs21
 |:--:|:--:
-<img src="https://cdn.jsdelivr.net/gh/zyphs21/cdn-assets/qrcode/HansonTalk.jpg" alt="HansonTalk" align=center /> | <img src="https://cdn.jsdelivr.net/gh/zyphs21/cdn-assets/qrcode/hansenhs21.jpg" width = "250" height = "320" alt="Hanson" align=center />
+<img src="https://cdn.jsdelivr.net/gh/zyphs21/cdn-assets/qrcode/HansonTalk.jpg" alt="HansonTalk" align=center /> | <img src="https://cdn.jsdelivr.net/gh/zyphs21/cdn-assets/qrcode/hansenhs21.jpg" alt="Hanson" align=center />
 
 </details>
 
