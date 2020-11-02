@@ -23,7 +23,7 @@ Apps | Info
 - 🌎  On my blog at [myhanson.com](http://myhanson.com)
 - 🐦  On Twitter at [@yuanpingzhang](https://twitter.com/yuanpingzhang)
 - 👁  On Weibo at [@汉森HS](https://weibo.com/1775951885/)
-- 🗣  On Zhihu at [@张汉森](https://www.zhihu.com/people/zhang-yi-sen-46)
+- 🗣  On Zhihu at [@张汉森](https://www.zhihu.com/people/hanson-zhang-hs)
 
 |公众号: HansonTalk | 微信: hansenhs21
 |:--:|:--:
