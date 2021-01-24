@@ -32,4 +32,5 @@ Apps | Info
 </details>
 
 
+![](https://komarev.com/ghpvc/?username=zyphs21&color=green)
 
