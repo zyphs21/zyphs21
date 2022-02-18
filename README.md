@@ -4,7 +4,7 @@
 
 <!-- [![Hanson's github stats](https://github-readme-stats.vercel.app/api?username=zyphs21&show_icons=true)](https://github.com/zyphs21) -->
 
-<details>
+
 <summary>🍏       My Little Products</summary>
 
 Apps | Info
@@ -15,19 +15,20 @@ Apps | Info
 [HansonSticker](https://apps.apple.com/cn/app/hansonsticker/id1158544571) | iMessage Sticker of me 🤪
 [PathToGo](https://github.com/HansonStudio/PathToGo) | Get macOS file path with on click
 
-</details>
 
-<details>
+
 <summary>🙋🏻‍♂️        Where to find me</summary>
 
 - 🌎  On my blog at [myhanson.com](http://myhanson.com)
 - 🐦  On Twitter at [@yuanpingzhang](https://twitter.com/yuanpingzhang)
 - 👁  On Weibo at [@汉森HS](https://weibo.com/1775951885/)
 - 🗣  On Zhihu at [@张汉森](https://www.zhihu.com/people/hanson-zhang-hs)
+- <details>
+  <summary>WeChat</summary>
 
-|公众号: HansonTalk | 微信: hansenhs21
-|:--:|:--:
-<img src="https://cdn.jsdelivr.net/gh/zyphs21/cdn-assets/qrcode/HansonTalk.jpg" alt="HansonTalk" align=center /> | <img src="https://cdn.jsdelivr.net/gh/zyphs21/cdn-assets/qrcode/hansenhs21.jpg" alt="Hanson" align=center />
+  |公众号: HansonTalk | 微信: hansenhs21
+  |:--:|:--:
+  <img src="https://cdn.jsdelivr.net/gh/zyphs21/cdn-assets/qrcode/HansonTalk.jpg" alt="HansonTalk" align=center /> | <img src="https://cdn.jsdelivr.net/gh/zyphs21/cdn-assets/qrcode/hansenhs21.jpg" alt="Hanson" align=center />
 
 </details>
 
